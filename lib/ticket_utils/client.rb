@@ -108,7 +108,7 @@ module TicketUtils
         }]
       }
 
-      headers = {"x-signature" => "aDWwMM6xscDdPdxC0X+JS7cL4Bzb8NYV2SkBZarRf1o=", "x-token" => "4700860104892437804", "content-type" => "application/json",
+      headers = {"x-signature" => "#{}", "x-token" => "#{}", "content-type" => "application/json",
                   "x-api-version" =>  "2", }
       #tickets = tickets
   
